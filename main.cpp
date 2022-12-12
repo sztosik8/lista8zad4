@@ -6,6 +6,6 @@ int main()
 {
     int n; cin >> n;
     // potrgowanie dwojki
-    cout << pow(3, n);
+    cout << pow(2, n);
 
 }
